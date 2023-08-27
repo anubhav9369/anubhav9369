@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **coderanubhav01@gmail.com**
 
-- ⚡ Fun fact **Sketch-artist , memer , traveller,**
+- ⚡ Interests **Sketch-artist , bibilophile , traveller,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,7 @@
 <a href="https://instagram.com/heyy.anuu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyy.anuu_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/coderanubhav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="coderanubhav01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anubhav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anubhav01" height="30" width="40" /></a>
-<a href="https://discord.gg/anubhav#6108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anubhav#6108" height="30" width="40" /></a>
+<a href="https://discord.gg/anubhav#6108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anubhav001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
