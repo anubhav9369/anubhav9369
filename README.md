@@ -1,9 +1,7 @@
 <h1 align="center">Hello World👋 I'm Anubhav</h1>
 <h3 align="center">A passionate full stack web developer with a passion for design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav9369&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav9369" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav9369" alt="anubhav9369" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_anubhav_tweets" target="blank"><img src="https://img.shields.io/twitter/follow/_anubhav_tweets?logo=twitter&style=for-the-badge" alt="_anubhav_tweets" /></a> </p>
 
