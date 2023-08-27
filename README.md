@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **coderanubhav01@gmail.com**
 
-- ⚡ Interests **Sketch-artist , bibilophile , traveller,**
+- ⚡ Interests **Sketch-artist , bibilophile , traveller**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
