@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML , CSS , C , C++ , Python**
 
-- 📫 How to reach me **coderanubhav01@gmail.com**
+- 📫 How to reach me **anubhav.verma2024@vitstudent.ac.in**
 
 - ⚡ Interests **Sketch-artist , bibilophile , traveller**
 
