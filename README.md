@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋 I'm Anubhav</h1>
-<h3 align="center">An enthusiastic full stack web developer with a passion for design.</h3>
+<h3 align="center">An enthusiastic Data scientist.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav9369&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav9369" /> </p>
 
 
@@ -7,18 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/_anubhav_tweets" target="blank"><img src="https://img.shields.io/twitter/follow/_anubhav_tweets?logo=twitter&style=for-the-badge" alt="_anubhav_tweets" /></a> </p>
 
-- 🌱 I’m currently learning **Java script**
+- 🌱 I’m currently learning **Machine learning , LLMs **
 
-- 💬 Ask me about **HTML , CSS , C , C++ , Python**
+- 💬 Ask me about **Python and their libraries , Sql ,Prologue , HTML , CSS , C , C++ **
 
 - 📫 How to reach me **anubhav.verma2024@vitstudent.ac.in**
 
-- ⚡ Interests **Sketch-artist , bibilophile , traveller**
+- ⚡ Interests **writer , Sketch-artist , bibilophile , traveller**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_anubhav_tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anubhav_tweets" height="30" width="40" /></a>
-<a href="https://instagram.com/heyy.anuu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyy.anuu_" height="30" width="40" /></a>
+<a href="https://instagram.com/anubhaverma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anubhaverma_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/coderanubhav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="coderanubhav01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anubhav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anubhav01" height="30" width="40" /></a>
 <a href="https://discord.gg/anubhav#6108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anubhav001" height="30" width="40" /></a>
