@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_anubhav_tweets" target="blank"><img src="https://img.shields.io/twitter/follow/_anubhav_tweets?logo=twitter&style=for-the-badge" alt="_anubhav_tweets" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning , LLMs **
+- 🌱 I’m currently learning **Machine learning , LLMs, Cloud Computing**
 
-- 💬 Ask me about **Python and their libraries , Sql ,AI,ML, DL, HTML , CSS , C , C++ ,JAVA **
+- 💬 Ask me about **Python and their libraries , Sql ,AI,HTML , CSS , JAVAScript , C , C++ ,JAVA**
 
 - 📫 How to reach me **anubhav.verma2024@vitstudent.ac.in**
 
