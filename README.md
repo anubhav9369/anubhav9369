@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning , LLMs **
 
-- 💬 Ask me about **Python and their libraries , Sql ,Prologue , HTML , CSS , C , C++ **
+- 💬 Ask me about **Python and their libraries , Sql ,AI,ML, DL, HTML , CSS , C , C++ ,JAVA **
 
 - 📫 How to reach me **anubhav.verma2024@vitstudent.ac.in**
 
