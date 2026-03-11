@@ -29,26 +29,10 @@ outside the terminal — i write, sketch, read too many books, and disappear int
 
 ### what i'm into right now
 
-- 🔍 &nbsp;exploring how RAG + vision models can make medical AI actually useful
+- 🔍 &nbsp;exploring GenAi , Quantum Machine learning.
 - 🧪 &nbsp;tinkering with fine-tuning small LLMs on domain-specific data
 - 📖 &nbsp;going through *Designing ML Systems* by Chip Huyen (highly recommend)
 - 🛠️ &nbsp;trying to write cleaner, more reproducible ML code (work in progress)
-
-<br/>
-
----
-
-### things i've built that i'm proud of
-
-**🏥 MediSimplify** — takes a medical report and turns it into plain English. built on a RAG pipeline with FAISS + BART. the idea came from watching family members stare blankly at their own reports.
-
-**📰 Fake News Detector** — a browser extension that runs BERT in the background and flags suspicious articles while you browse. fine-tuned to 96% accuracy. it just lives in your browser and quietly does its job.
-
-**🧬 Brain Tumor Classifier** — CNN trained on MRI scans that classifies tumor type *and* tries to localize where it is. built a heatmap overlay so it's actually interpretable for medical staff, not just a black box.
-
-**📊 Research Grant Manager** — hybrid SciBERT + XGBoost model that automates grant evaluation. added SHAP so reviewers can see *why* a grant was scored a certain way, not just what score it got.
-
-<br/>
 
 ---
 
@@ -84,7 +68,6 @@ shipping     →   Flask · Streamlit · Gradio · Git
 ### a few more things
 
 - 🏆 &nbsp;DST INSPIRE Scholar — government scholarship for top 1% students nationally
-- 🎓 &nbsp;NPTEL Elite in LLMs (IIT Madras) · GenAI cert from Intel
 - 💬 &nbsp;happy to talk about NLP, AI for healthcare, or literally anything books
 - 📍 &nbsp;Chennai, India
 
