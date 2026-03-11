@@ -1,106 +1,99 @@
 <div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anubhav%20Verma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20ML%20Researcher&descAlignY=60&descSize=18&descColor=a78bfa"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Science+%40;GenAI+%26+LLM+Engineer;Building+AI-Powered+Real-World+Systems;DST+INSPIRE+Scholar+%F0%9F%8F%86" alt="Typing SVG" />
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=hey,%20i'm%20anubhav%20👋&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=i%20build%20things%20with%20data%20and%20too%20much%20coffee&descAlignY=68&descSize=16&descColor=94a3b8"/>
+</div>
 
 <br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="https://twitter.com/_anubhav_tweets">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anubhav-verma/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/coderanubhav01">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/anubhav01">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="mailto:anubhavverma9369@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=anubhav9369&label=Profile+Views&color=7c3aed&style=flat-square" />
-
+<div align="center">
+  <a href="https://twitter.com/_anubhav_tweets"><img src="https://img.shields.io/badge/twitter-follow-%231a8cd8?style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;
+  <a href="mailto:anubhavverma9369@gmail.com"><img src="https://img.shields.io/badge/email%20me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/anubhav-verma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=anubhav9369&style=flat-square&color=6366f1&label=visitors" />
 </div>
+
+<br/>
 
 ---
 
-## 🧠 About Me
+### who am i?
 
-```python
-class Anubhav:
-    def __init__(self):
-        self.name        = "Anubhav Verma"
-        self.degree      = "M.Sc. Data Science @ VIT Chennai (CGPA: 8.41)"
-        self.focus       = ["GenAI", "LLMs", "Deep Learning", "MLOps"]
-        self.scholarship = "DST INSPIRE Scholar — Top 1% Nationwide 🏆"
-        self.interests   = ["Writing ✍️", "Sketching 🎨", "Reading 📚", "Travel 🌍"]
-        self.currently   = "Building AI systems that solve real-world problems"
-        self.contact     = "anubhavverma9369@gmail.com"
+i'm a data science grad student from VIT Chennai who got hooked on machine learning and never looked back. i like building systems that actually *do* something — not just notebooks that run once and get abandoned.
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something impactful together 🚀")
+right now i'm deep into **LLMs, RAG pipelines, and making AI explainable** to people who aren't AI researchers. i believe the best model is the one someone actually understands and trusts.
+
+outside the terminal — i write, sketch, read too many books, and disappear into new places whenever i can.
+
+<br/>
+
+---
+
+### what i'm into right now
+
+- 🔍 &nbsp;exploring how RAG + vision models can make medical AI actually useful
+- 🧪 &nbsp;tinkering with fine-tuning small LLMs on domain-specific data
+- 📖 &nbsp;going through *Designing ML Systems* by Chip Huyen (highly recommend)
+- 🛠️ &nbsp;trying to write cleaner, more reproducible ML code (work in progress)
+
+<br/>
+
+---
+
+### things i've built that i'm proud of
+
+**🏥 MediSimplify** — takes a medical report and turns it into plain English. built on a RAG pipeline with FAISS + BART. the idea came from watching family members stare blankly at their own reports.
+
+**📰 Fake News Detector** — a browser extension that runs BERT in the background and flags suspicious articles while you browse. fine-tuned to 96% accuracy. it just lives in your browser and quietly does its job.
+
+**🧬 Brain Tumor Classifier** — CNN trained on MRI scans that classifies tumor type *and* tries to localize where it is. built a heatmap overlay so it's actually interpretable for medical staff, not just a black box.
+
+**📊 Research Grant Manager** — hybrid SciBERT + XGBoost model that automates grant evaluation. added SHAP so reviewers can see *why* a grant was scored a certain way, not just what score it got.
+
+<br/>
+
+---
+
+### my toolbox
+
+```
+languages    →   Python · SQL · R · Java · C
+ml / ai      →   PyTorch · TensorFlow · Scikit-learn · HuggingFace · BERT · FAISS
+data stuff   →   Pandas · NumPy · Matplotlib · Tableau · Power BI
+shipping     →   Flask · Streamlit · Gradio · Git
 ```
 
+<br/>
+
 ---
 
-
-## 🛠️ Tech Stack
+### github at a glance
 
 <div align="center">
-
-**Languages & Databases**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI / ML Frameworks**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Dev Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anubhav9369&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=6366f1&icon_color=6366f1"/>
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav9369&layout=compact&theme=github_dark&hide_border=true&title_color=6366f1"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anubhav9369&theme=github-dark-blue&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+</div>
+
+<br/>
+
+---
+
+### a few more things
+
+- 🏆 &nbsp;DST INSPIRE Scholar — government scholarship for top 1% students nationally
+- 🎓 &nbsp;NPTEL Elite in LLMs (IIT Madras) · GenAI cert from Intel
+- 💬 &nbsp;happy to talk about NLP, AI for healthcare, or literally anything books
+- 📍 &nbsp;Chennai, India
+
+<br/>
+
 ---
 
 <div align="center">
-
-### 💬 Let's Connect & Collaborate
-
-*"Turning data into decisions, and models into impact."*
-
-📧 **anubhavverma9369@gmail.com** &nbsp;|&nbsp; 📍 Chennai, India**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
+  <sub>if something i built helped you, or you just want to chat — reach out anytime.</sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
 </div>
