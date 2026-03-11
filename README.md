@@ -54,60 +54,6 @@ class Anubhav:
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 AI Research Grant Management
-> **SciBERT · XGBoost · SHAP · Streamlit**
-
-End-to-end system for automating grant evaluation & monitoring.
-- 📊 **76.8% accuracy** on 9,200+ research records
-- 🧠 SHAP integration for explainable funding decisions
-- 📡 Real-time dashboard with fund misuse detection
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 MediSimplify — RAG Medical AI
-> **RAG · FAISS · BART · Sentence-BERT · OCR**
-
-Translates complex medical reports into plain English.
-- ⚡ FAISS-powered high-speed semantic vector retrieval
-- 📄 PDF OCR with dual-view Streamlit interface
-- 🔍 Technical & simplified explanations side-by-side
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📰 Fake News Detection Extension
-> **BERT · Flask · JavaScript · Deep Learning**
-
-Full-stack browser extension for real-time news verification.
-- ✅ **96% accuracy** in detecting misinformation
-- 🌐 JS extension that parses live article content
-- 🔗 Seamless Flask backend API integration
-
-</td>
-<td width="50%" valign="top">
-
-### 🧬 Brain Tumor Detection System
-> **CNN · Streamlit · Medical Imaging · BRISC2025**
-
-Diagnostic AI tool for multi-class MRI tumor analysis.
-- 🎯 **87.4% accuracy** — Glioma, Meningioma, Pituitary
-- 🗺️ Severity grading & tumor localization module
-- 🔥 Heatmap-based visualization for medical professionals
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -147,38 +93,13 @@ Diagnostic AI tool for multi-class MRI tumor analysis.
 
 ---
 
-## 🏆 Achievements & Certifications
-
-| 🏅 Award / Cert | 🏛️ Issuer | 📅 Year |
-|---|---|---|
-| 🎓 **DST INSPIRE Scholarship** — Top 1% Nationwide | Government of India | 2021–Present |
-| ⭐ **NPTEL Elite: Introduction to LLMs** (72%) | IIT Madras | Oct 2025 |
-| 🤖 **Get Started with Generative AI** | Intel Unnati | Aug 2025 |
-| 📊 **Workshop: Multivariate Analysis with JAMOVI** | ISAR, Chennai | Jan 2025 |
-| 💡 **IndustriAI 24hr Hackathon** | IIT Madras | Jan 2025 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anubhav9369&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav9369&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav9369&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect & Collaborate
 
 *"Turning data into decisions, and models into impact."*
 
-📧 **anubhavverma9369@gmail.com** &nbsp;|&nbsp; 📍 **VIT Chennai, Tamil Nadu, India**
+📧 **anubhavverma9369@gmail.com** &nbsp;|&nbsp; 📍 Chennai, India**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
