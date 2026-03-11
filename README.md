@@ -18,7 +18,7 @@
 
 i'm a data science grad student who got hooked on machine learning, deep learning, GenAI and never looked back. i like building systems that actually *do* something — not just notebooks that run once and get abandoned.
 
-right now i'm deep into **LLMs, RAG pipelines, and making AI explainable** to people who aren't AI researchers. i believe the best model is the one someone actually understands and trusts.
+right now i'm deep into **QML, LLMs, RAG pipelines, AI Agents and making AI explainable** to people who aren't AI researchers. i believe the best model is the one someone actually understands and trusts.
 
 outside the terminal — i write, sketch, read too many books, and disappear into new places whenever i can.
 
