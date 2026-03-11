@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=hey,%20i'm%20anubhav%20👋&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=i%20build%20things%20with%20data%20and%20too%20much%20coffee&descAlignY=68&descSize=16&descColor=94a3b8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Hey,%20i'm%20Anubhav%20👋&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=i%20build%20things%20with%20data%20and%20too%20much%20coffee&descAlignY=68&descSize=16&descColor=94a3b8"/>
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
 
 ### who am i?
 
-i'm a data science grad student from VIT Chennai who got hooked on machine learning and never looked back. i like building systems that actually *do* something — not just notebooks that run once and get abandoned.
+i'm a data science grad student who got hooked on machine learning, deep learning, GenAI and never looked back. i like building systems that actually *do* something — not just notebooks that run once and get abandoned.
 
 right now i'm deep into **LLMs, RAG pipelines, and making AI explainable** to people who aren't AI researchers. i believe the best model is the one someone actually understands and trusts.
 
@@ -36,16 +36,101 @@ outside the terminal — i write, sketch, read too many books, and disappear int
 
 ---
 
-### my toolbox
-
-```
-languages    →   Python · SQL · R · Java · C
-ml / ai      →   PyTorch · TensorFlow · Scikit-learn · HuggingFace · BERT · FAISS
-data stuff   →   Pandas · NumPy · Matplotlib · Tableau · Power BI
-shipping     →   Flask · Streamlit · Gradio · Git
-```
-
-<br/>
+<h3 align="left">🛠️ Languages and Tools</h3>
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Hadoop -->
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- HuggingFace -->
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Streamlit -->
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Gradio -->
+  <a href="https://www.gradio.app/" target="_blank">
+    <img src="https://www.gradio.app/logo.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Jupyter -->
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
