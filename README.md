@@ -152,9 +152,8 @@ outside the terminal — i write, sketch, read too many books, and disappear int
 
 ### a few more things
 
-- 🏆 &nbsp;DST INSPIRE Scholar — government scholarship for top 1% students nationally
-- 💬 &nbsp;happy to talk about GanAI, AI Agents, other then tech... philosphy,books and ART !
-- 📍 &nbsp;Chennai, India
+- 💬 &nbsp;happy to talk about ML, DL, GanAI, AI Agents, and other then tech... philosphy,books and ART !
+- 📍 &nbsp;Lucknow 🔄 Chennai, India
 
 <br/>
 
