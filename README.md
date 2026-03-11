@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Hey,%20i'm%20Anubhav%20👋&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=i%20build%20things%20with%20data%20and%20too%20much%20coffee&descAlignY=68&descSize=16&descColor=94a3b8"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Hey,%20i'm%20Anubhav%20👋&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=who%20cares%20more%20about%20building%20usable%20AI%20than%20just%20training%20models />
 
 <br/>
 
