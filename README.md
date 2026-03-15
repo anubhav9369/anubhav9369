@@ -136,12 +136,6 @@ outside the terminal — i write, sketch, read too many books, and disappear int
 ### github at a glance
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anubhav9369&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=6366f1&icon_color=6366f1"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav9369&layout=compact&theme=github_dark&hide_border=true&title_color=6366f1"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=anubhav9369&theme=github-dark-blue&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 </div>
 
