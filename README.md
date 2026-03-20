@@ -111,7 +111,8 @@ outside the terminal — i write, sketch, read too many books, and disappear int
   </a>&nbsp;
   <!-- Gradio -->
   <a href="https://www.gradio.app/" target="_blank">
-    <img src="https://www.gradio.app/logo.svg" width="40" height="40"/>
+    <img 
+src="https://www.gradio.app/logo.svg" width="40" height="40"/>
   </a>&nbsp;
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
