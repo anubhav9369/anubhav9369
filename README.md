@@ -109,11 +109,6 @@ outside the terminal — i write, sketch, read too many books, and disappear int
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40"/>
   </a>&nbsp;
-  <!-- Gradio -->
-  <a href="https://www.gradio.app/" target="_blank">
-    <img 
-src="https://www.gradio.app/logo.svg" width="40" height="40"/>
-  </a>&nbsp;
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
