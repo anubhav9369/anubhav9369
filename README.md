@@ -59,6 +59,7 @@ outside the terminal — i write, sketch, read too many books, and disappear int
   <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
 </p>
+
 ---
 
 ### github at a glance
