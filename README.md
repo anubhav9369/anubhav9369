@@ -34,7 +34,7 @@ outside the terminal — i write, sketch, read too many books, and disappear int
 - 🛠️ &nbsp;trying to write cleaner, more reproducible ML code (work in progress)
 
 ---
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
