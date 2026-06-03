@@ -63,16 +63,6 @@ outside the terminal — i write, sketch, read too many books, and disappear int
 
 ---
 
-### github at a glance
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anubhav9369&theme=github-dark-blue&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-</div>
-
-<br/>
-
----
-
 ### a few more things
 - 📫 &nbsp;Reach me at **anubhavverma9369@gmail.com**
 - 💬 &nbsp;happy to talk about ML, DL, GanAI, AI Agents, and other then tech... philosphy,books and ART !
